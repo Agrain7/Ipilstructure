@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Ipilstructure</string>
+
+    <string name="title_name">&#160;퍼린사이즈 확인하기</string>
+    <string name="text_box1">&#160;설치 지역 : </string>
+    <string name="text_box2">&#160;세부 설치 지역 : </string>
+    <string name="text_box3">&#160;기본 풍속(m/s) : </string>
+    <string name="text_box4">&#160;순간 최대 풍속(m/s) : </string>
+    <string name="text_box5">&#160;경간 입력(m) : </string>
+    <string name="text_box6">&#160;태양광 패널 각도(°) :</string>
+    <string name="text_box7">&#160;퍼린 사이즈 : </string>
+    <string name="text_box8">&#160;설치 높이(m) : </string>
+    <string name="spinner1">설치 지역</string>
+    <string name="spinner2">세부 설치 지역</string>
+    <string name="spinner3">경간 입력</string>
+    <string name="spinner4">태양광 패널 각도</string>
+    <string name="spinner5">퍼린 사이즈</string>
+    <string name="spinner6">설치 높이</string>
+    <string name="edit_text1">경간을 입력하세요</string>
+    <string name="edit_text2">각도를 입력하세요</string>
+    <string name="edit_text3">높이를 입력하세요</string>
+    <string name="text_box11">m</string>
+    <string name="text_box12">°</string>
+    <string name="text_box13">m</string>
+    <string name="Button1">결과 확인</string>
+    <string name="Button2">구조계산서 샘플 확인하기</string>
+    <string name="Button3">타이틀 화면으로 돌아가기</string>
+    <string name="Button4">다시 검토하기</string>
+    <string name="result_text1">정확한 검토는 (주)이필구조 에 의뢰하세요.</string>
+    <string name="result_text2">* 현장 퍼린 배치 및 설치 현장 여건에 따라 결과가 바뀔 수 있습니다.</string>
+    <string name="result_text_NG">안전하지 않은 부재입니다.</string>
+    <string name="result_text_OK">사용 가능한 부재입니다.</string>
+    <string name="to_main">메인으로</string>
+
+    <string name="image1">image</string>
+    <string name="image2">image</string>
+    <string name="title_text">(주)이 필 구 조</string>
+    <string name="purlin_check">태양광 퍼린 검토하러 가기</string>
+    <string name="solarreport_check">태양광 구조계산서 \n 샘플 확인하기</string>
+    <string name="structure_check">기존건물 구조계산서 \n 샘플 확인하기</string>
+    <string name="qr_check">구조계산서 QR 스캔하기</string>
+    <string name="solar_check">태양광 더 알아보기</string>
+    <string name="solar_check_more">물량 산출하기</string>
+    <string name="MainButton">메인으로</string>
+
+    <string name="text_title">퍼린 검토 결과</string>
+    <string name="text_view01">&#160;퍼린 사이즈 : </string>
+    <string name="text_view02">&#160;안전성 검토 : </string>
+    <string name="text_view03">&#160;안전율 : </string>
+    <string name="contact_name">(주)이필구조 팀장 나 승 호</string>
+    <string name="contact_number">연락처 : 02) 2054 - 8274</string>
+    <string name="contact_mail">메일주소 : sktmdgh123@ipil.co.kr</string>
+
+    <string name="first_fragment_label">first_main</string>
+    <string name="second_fragment_label">second_purlin</string>
+    <string name="third_fragment_label">third_result</string>
+    <string name="title_activity_dialog">추후 업데이트 될 예정입니다.</string>
+
+    <string name="popup_title">추후 업데이트 될 예정입니다.</string>
+    <string name="popup_check">확인</string>
+    <string name="popup_cancel">취소</string>
+</resources>

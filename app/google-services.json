@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106426582685",
+    "project_id": "ipilstructure",
+    "storage_bucket": "ipilstructure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106426582685:android:ab04e1c671cc93bc20b674",
+        "android_client_info": {
+          "package_name": "com.ipilsolar.ipilstructure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106426582685-25n5etnmclnoq1iq41hi1ftadq7fuef4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ipilsolar.ipilstructure",
+            "certificate_hash": "bd9b458155a659125203e162762e5cd4b7504465"
+          }
+        },
+        {
+          "client_id": "106426582685-cfadjrvk8lgfa85o7eeq9s5lv3l4v60k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAu-RtQQMEA6myUoKlzBkY0gdC1H7_NBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106426582685-cfadjrvk8lgfa85o7eeq9s5lv3l4v60k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
